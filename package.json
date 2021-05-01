@@ -1,13 +1,11 @@
 {
-  "name": "fldg-wallet",
-  "description": "Basic Wallet for FLDG",
+  "name": "sample-burner-wallet",
+  "description": "Sample repo for building a wallet using Burner Wallet 2",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@biconomy/mexa": "^2.0.8",
     "@burner-wallet/assets": "^1.0.0",
     "@burner-wallet/core": "^1.0.0",
-    "@burner-wallet/erc681-plugin": "^1.0.0",
     "@burner-wallet/exchange": "^1.0.0",
     "@burner-wallet/modern-ui": "^1.0.0",
     "@types/node": "12.0.4",
